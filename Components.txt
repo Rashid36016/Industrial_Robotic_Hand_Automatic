@@ -1,6 +1,6 @@
 Components:
 1. ESP32 Development Kit V1                        2pcs
-2. OLED Display 12C 0.96Inch 128X64                1pcs
+2. OLED Display 12C 0.96Inch 128X64                1pc
 3. Servo SG90 or MG996 or MG996R or related        6pcs
 4. Push Button                                     5pcs
 5. Jumper Wire                                     as u need
