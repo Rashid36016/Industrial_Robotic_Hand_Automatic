@@ -7,3 +7,4 @@ Components:
 6. Data cable                                      1/2pcs
 7. Power supply 5V (Amp depend on servo) for receiver
 8. Power supply 3.7V Battery for for sender
+9. Case (3D print)
